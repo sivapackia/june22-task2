@@ -1,0 +1,50 @@
+
+@media(min-width:300px) and (max-width:576px){
+	
+.mobile{
+		position:relative!important;
+}
+	
+.phone-1{
+		position:absolute!important;
+		top:150px;
+		left:30px;
+}
+
+.phone-2{
+		position:absolute!important;
+		top:69px!important;
+		left:110px!important;
+}
+
+.phone-3{
+		position:absolute!important;
+		top:133px!important;
+		left:220px!important;
+}
+
+.phone-4{
+		position:absolute!important;
+		top:130px!important;
+		left:30px!important;
+}
+
+.list ul li i{
+	font-size:13px!important;
+}
+
+.list ul li span{
+	font-size:13px!important;
+}
+
+#section{
+	margin-top:-4rem!important;
+}
+	
+}
+
+@media(min-width:768px) and (max-width:992px){
+	#section{
+	margin-top:-4rem!important;
+}
+}
